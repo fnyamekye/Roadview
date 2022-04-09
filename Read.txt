@@ -1,0 +1,1 @@
+This picture is  best fit with 816px width and 600px min-height
